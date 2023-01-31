@@ -16,7 +16,7 @@ function App() {
       setLocation('')
     }
   }
-
+// Най - якото приложение
   return (
     <div className="app">
       <div className="search">
